@@ -1,1 +1,1 @@
-worker: python bot_forex_multi.py
+"worker: python bot_forex_multi.py" 
